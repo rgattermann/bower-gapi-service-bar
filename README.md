@@ -3,7 +3,7 @@
 
 #### How to Install:
 
-### Via bower
+Via bower
 ``` bower install gapi-service-bar ```
 
 It will include the following structure to your bower's package folder:
