@@ -1,5 +1,6 @@
-# bower-gapi-service-bar
-> Gapi Service Bar is an AngularJS Directive that provide access to different applications and user profile.
+# Grupo API Service Bar
+![](http://s12.postimg.org/5lq0y8jzh/zzzz.gif)
+> Gapi Service Bar is an AngularJS Directive that provide access to different applications and user config.
 
 #### How to Install:
 
