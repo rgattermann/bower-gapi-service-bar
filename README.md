@@ -28,8 +28,11 @@ It will include the following structure to your bower's package folder:
 
 ### Make it works:
 
-1) Refer ```<script type="text/javascript" src="vendor/gapi-service-bar/gapi-service-bar.min.js"></script>``` and ``` <link type="text/css"     href="vendor/gapi-service-bar/style.css" rel="stylesheet" /> ```
+#### Refer to your ```<head>```:
 
-2) Include the directive TAG: ```<gapi-service-bar></gapi-service-bar>``` on your HTML.
+* ```<script type="text/javascript" src="vendor/gapi-service-bar/gapi-service-bar.min.js"></script>```
+* ``` <link type="text/css"     href="vendor/gapi-service-bar/style.css" rel="stylesheet" /> ```
+
+Then include the directive TAG: ```<gapi-service-bar></gapi-service-bar>``` on the top of your HTML.
 
 Cross your fingers.
