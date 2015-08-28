@@ -1,5 +1,5 @@
 # Grupo API Service Bar
-![services-bar](http://s24.postimg.org/7hcji5cv9/gapi_service_bar.gif)
+![services-bar](http://s18.postimg.org/iw6ho7eah/image.gif)
 > Gapi Service Bar is an AngularJS Directive that provide access to different applications and user config.
 
 #### How to Install:
