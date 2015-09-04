@@ -10,29 +10,42 @@ Via bower
 It will include the following structure to your bower's package folder:
 
 ```
-├── img/
-|   ├── logoApi.png
-|   ├── logoIntegra.png
-|   ├── logoPromad.png
 ├── style.css
 ├── gapi-service-bar.html
-├── bower.json
 ├── gapi-service-bar.min.js
 ├── gapi-service-bar.min.js.map
+├── bower.json
+├── .bower.json
 ├── LICENSE
 ├── README
 ```
-### Dependencies:
-* jQuery
-* Bootstrap
 
-### Make it works:
+### Adding to your project
 
-#### Refer to your ```<head>```:
+Firstly you must have bower already installed to run this command:
+```sh
+bower install gapi-service-bar
+```
 
-* ```<script type="text/javascript" src="vendor/gapi-service-bar/gapi-service-bar.min.js"></script>```
-* ``` <link type="text/css"     href="vendor/gapi-service-bar/style.css" rel="stylesheet" /> ```
+Add it to your AngularJS Module as dependency:
+``` javascript
+angular.module('yourProject', ['gapiServiceBar'];
+```
 
-Then include the directive TAG: ```<gapi-service-bar></gapi-service-bar>``` on the top of your HTML.
+Refer on your html
+``` html
+<head></head>
+```
+The following files:
 
-Cross your fingers.
+``` html
+<link type="text/css" href="vendor/gapi-service-bar/style.css" rel="stylesheet" /> 
+<script type="text/javascript" src="vendor/gapi-service-bar/gapi-service-bar.min.js"></script>
+```
+
+Include the directive on your HTML:
+``` html
+<gapi-service-bar></gapi-service-bar>
+```
+
+There we go!
