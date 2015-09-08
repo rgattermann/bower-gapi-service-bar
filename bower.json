@@ -1,7 +1,7 @@
 {
     "name": "gapi-service-bar",
     "description": "Grupo API Service Bar",
-    "version": "0.2.1",
+    "version": "0.3.1",
     "homepage": "https://github.com/grupoapi/bower-gapi-service-bar",
     "authors": [
         "Felipe Kautzmann <felipe.kautzmann@gmail.com>"
