@@ -1,7 +1,7 @@
 {
     "name": "gapi-service-bar",
     "description": "Grupo API Service Bar",
-    "version": "0.3.6",
+    "version": "0.4.0",
     "homepage": "https://github.com/grupoapi/bower-gapi-service-bar",
     "authors": [
         "Felipe Kautzmann <felipe.kautzmann@gmail.com>"
@@ -14,6 +14,7 @@
         "angular-animate": "~1.4.5",
         "angular-material": "~0.11.0",
         "angular-route": "~1.4.3",
-        "aruba.js": "~0.1.7"
+        "aruba.js": "~0.1.7",
+        "angular-datetime": "~2.0.0"
     }
 }
