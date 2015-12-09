@@ -2,7 +2,7 @@
 
 > Application Header bar with Notifications, Contracted Applications and User Configuration
 
-![services-bar](http://s23.postimg.org/tbzd2mo3v/bar.gif)
+![services-bar](http://s7.postimg.org/6cuhbhh4b/demo.gif)
 
 ## Mirrors
 
